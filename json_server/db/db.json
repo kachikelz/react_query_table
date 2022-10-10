@@ -1,0 +1,46 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Durward Dauty",
+            "email": "bjac@amazon.com",
+            "status": "active",
+            "imgUrl": "/static/media/img1.png"
+        },
+        {
+            "id": 2,
+            "name": "Fery Jank",
+            "email": "fery@amazon.com",
+            "status": "active",
+            "imgUrl": "/static/media/img2.png"
+        },
+        {
+            "id": 3,
+            "name": "Mark Fekl",
+            "email": "mark@amazon.com",
+            "status": "active",
+            "imgUrl": "/static/media/img3.png"
+        },
+        {
+            "id": 4,
+            "name": "Binna Lopo",
+            "email": "binna@amazon.com",
+            "status": "active",
+            "imgUrl": "/static/media/img4.png"
+        },
+        {
+            "id": 5,
+            "name": "Haward Geff",
+            "email": "haward@amazon.com",
+            "status": "active",
+            "imgUrl": "/static/media/img5.png"
+        },
+        {
+            "id": 6,
+            "name": "Dammy Lary",
+            "email": "dammmy@amazon.com",
+            "status": "active",
+            "imgUrl": "/static/media/img6.png"
+        }
+    ]
+}
